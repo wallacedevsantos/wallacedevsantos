@@ -19,6 +19,6 @@ I've always enjoyed solving problems and I love creating new things through prog
 
 ## I'm willing to learn more 😁
 
-[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=wallacedevsantos&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/wallacedevsantos)
+[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=wallacedevsantos&show_icons=true&title_color=fff&icon_color=fff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/wallacedevsantos)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wallacedevsantos&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/wallacedevsantos)
