@@ -13,8 +13,7 @@ I've always enjoyed solving problems and I love creating new things through prog
 
 ### <img src="https://img.shields.io/badge/-JavaScript-yellow"/>
 ### <img src="https://img.shields.io/badge/-HTML-blue"/>
-### <img src="[https://img.shields.io/badge/-CSS-green](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-)"/>
+### <img src="https://img.shields.io/badge/-CSS-green](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)"/>
 
 ## I'm willing to learn more 😁
 
