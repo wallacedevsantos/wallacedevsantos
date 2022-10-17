@@ -1,26 +1,22 @@
 
-# Hi, I'm Cleitin!
+# Hi, I'm Wallace!
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gui-loko)](https://github.com/gui-loko)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermo-masid-494677b8/)](https://www.linkedin.com/in/guilhermo-masid-494677b8/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wallacedevsantos)](https://github.com/wallacedevsantos)
 
 ## About me:
 
-I'm a Fullstack Developer :smile:
+I'm a Fullstack programming student and I'm fulfilling my dream of being a programmer at 26 years old. :smile:
 
-I Love code and create new stuff, i like too much to discover new technologies and dive deep in solving problems.
+I've always enjoyed solving problems and I love creating new things through programming. I am self-taught and passionate about technology. :smile
 
 ## My specialties:
 
-### Languages: <img src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white"/>
+### <img src="https://img.shields.io/badge/-JavaScript-yellow"/>
+### <img src="https://img.shields.io/badge/-HTML-blue"/>
+### <img src="https://img.shields.io/badge/-CSS-green"/>
 
+## I'm willing to learn more 😁
 
-### Database: <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=wallacedevsantos&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/wallacedevsantos)
 
-### Others: <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-
-## What I don't know, give me a few days 😁
-
-[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=gui-loko&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/gui-loko)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego3g&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/gui-loko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wallacedevsantos&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/wallacedevsantos)
