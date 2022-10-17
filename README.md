@@ -7,7 +7,7 @@
 
 I'm a Fullstack programming student and I'm fulfilling my dream of being a programmer at 26 years old. :smile:
 
-I've always enjoyed solving problems and I love creating new things through programming. I am self-taught and passionate about technology. :smile
+I've always enjoyed solving problems and I love creating new things through programming. I am self-taught and passionate about technology. :smile:
 
 ## My specialties:
 
